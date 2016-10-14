@@ -18,7 +18,7 @@ The following methods (taught in the [一天搞懂深度學習](http://www.slide
 	- Dropout
 
 ## Usage
-You can simply open the Demo.ipynb on github or through [jupyte nbviewer](http://nbviewer.jupyter.org).
+You can simply open the Demo.ipynb on [GitHub](https://github.com/Lee-W/Keras-Mnist-Example/blob/master/Demo.ipynb) or through [jupyte nbviewer](http://nbviewer.jupyter.org/github/Lee-W/Keras-Mnist-Example/blob/master/Demo.ipynb)(recommended).
 
 This ipython notebook is also organized as slides that can be used with default jupyter nbcoverter or [RISE](https://github.com/damianavila/RISE).
 
